@@ -21,9 +21,9 @@
 <h3 align="left">Languages and Tools ⚙️ : </h3>
 
 <p align='center'>
-	<img src="https://skillicons.dev/icons?i=git,github,vscode,mac,html" />
+	<img src="https://skillicons.dev/icons?i=git,github,vscode,html" />
 	<img src="https://skillicons.dev/icons?i=js,css,nodejs,ts" />
-	<img src="https://skillicons.dev/icons?i=react,express,mongodb," />
+<!-- 	<img src="https://skillicons.dev/icons?i=react,express,mongodb," /> -->
 <!-- 	<img src="https://skillicons.dev/icons?i=postman,vercel,prisma,planetscale,graphql" />
 	<img src="https://skillicons.dev/icons?i=supabase,redux,md,materialui,firebase" /> -->
 	<a href="#">
