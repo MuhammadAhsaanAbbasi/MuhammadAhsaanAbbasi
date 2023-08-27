@@ -21,11 +21,11 @@
 <h3 align="left">Languages and Tools ⚙️ : </h3>
 
 <p align='center'>
-	<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,cpp" />
-	<img src="https://skillicons.dev/icons?i=js,css,nextjs,tailwind,postgres" />
-	<img src="https://skillicons.dev/icons?i=react,express,mongodb,nodejs,ts" />
-	<img src="https://skillicons.dev/icons?i=postman,vercel,prisma,planetscale,graphql" />
-	<img src="https://skillicons.dev/icons?i=supabase,redux,md,materialui,firebase" />
+	<img src="https://skillicons.dev/icons?i=git,github,vscode,mac,html" />
+	<img src="https://skillicons.dev/icons?i=js,css,nodejs,ts" />
+	<img src="https://skillicons.dev/icons?i=react,express,mongodb," />
+<!-- 	<img src="https://skillicons.dev/icons?i=postman,vercel,prisma,planetscale,graphql" />
+	<img src="https://skillicons.dev/icons?i=supabase,redux,md,materialui,firebase" /> -->
 	<a href="#">
 		<img alt="GitHub" title="GitHub" width="40" height="40" src="./imgs/github.png" style="padding-right:5px;" />
 	</a>
