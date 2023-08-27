@@ -3,7 +3,7 @@
 <hr>
 - 🌱 I’m currently learning **WEB 3.0 PIAIC (Presidential Initiative for Artificial Intelligence and Computing)**
 
-- 💬 Ask me about **HTML CSS JAVASCRIPT REACT REDUX REACT-NATIVE**
+- 💬 Ask me about **HTML CSS JAVASCRIPT Typescript**
 
 - 📫 How to reach me **mahsaanabbasi@gmail.com**
 
