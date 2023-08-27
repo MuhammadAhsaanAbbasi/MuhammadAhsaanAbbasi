@@ -9,15 +9,13 @@
 
 - ⚡ Fun fact **I think i'm Hard Working Developer**
 
-
+<hr>
 <h3 align="left">📫 Connect with me on 🔗 :</h3>
 <p align="left">
 <a href="https://www.instagram.com/m_ahsaan_abbasi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ʌɓɓʌşïşähãɓ" height="30" width="40" /></a>
 <a href="https://twitter.com/Muhamma99141099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" altt alt="Muhamma99141099" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/muhammad-ahsaan-abbasi-995630263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Muhammad Ahsaan Abbasi" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadAhsaanAbbasi&show_icons=true&locale=en&layout=compact" alt="MuhammadAhsaanAbbasi" /></p>
 
 <hr>
 <h3 align="left">Languages and Tools ⚙️ : </h3>
@@ -48,3 +46,7 @@
 		<img src="./imgs/formik.png" width="40px" />
 	</a>
 </p>
+
+<hr>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadAhsaanAbbasi&show_icons=true&locale=en&layout=compact" alt="MuhammadAhsaanAbbasi" /></p>
