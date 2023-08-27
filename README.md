@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Areeba Aijaz</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Ahsaan Abbasi</h1>
 <h3 align="center">A Passionate MERN Stack developer from Pakistan</h3>
 
 - 🌱 I’m currently learning **WEB 3.0 PIAIC (Presidential Initiative for Artificial Intelligence and Computing)**
