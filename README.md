@@ -29,9 +29,9 @@
 	<a href="#">
 		<img alt="GitHub" title="GitHub" width="40" height="40" src="./imgs/github.png" style="padding-right:5px;" />
 	</a>
-	<a href="https://ubuntu.com/tutorials/command-line-for-beginners#1-overview" style="padding-right:5px;">
+<!-- 	<a href="https://ubuntu.com/tutorials/command-line-for-beginners#1-overview" style="padding-right:5px;">
 		<img alt="Terminal" title="Command Line" width="40" height="40" src="./imgs/terminal.png" />
-	</a>
+	</a> -->
 <!-- 	<a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="NextJS in PIAIC">
 		<img src="./imgs/nextjs.png" alt="nextjs" width="45" height="45" />
 	</a> -->
