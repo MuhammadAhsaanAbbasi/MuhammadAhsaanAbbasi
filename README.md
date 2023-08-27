@@ -26,9 +26,9 @@
 <!-- 	<img src="https://skillicons.dev/icons?i=react,express,mongodb," /> -->
 <!-- 	<img src="https://skillicons.dev/icons?i=postman,vercel,prisma,planetscale,graphql" />
 	<img src="https://skillicons.dev/icons?i=supabase,redux,md,materialui,firebase" /> -->
-	<a href="#">
+<!-- 	<a href="#">
 		<img alt="GitHub" title="GitHub" width="40" height="40" src="./imgs/github.png" style="padding-right:5px;" />
-	</a>
+	</a> -->
 <!-- 	<a href="https://ubuntu.com/tutorials/command-line-for-beginners#1-overview" style="padding-right:5px;">
 		<img alt="Terminal" title="Command Line" width="40" height="40" src="./imgs/terminal.png" />
 	</a> -->
