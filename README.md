@@ -15,6 +15,6 @@
 <a href="https://www.linkedin.com/in/muhammad-ahsaan-abbasi-995630263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="areeba aijaz" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=areeba-muhammad-aijaz&show_icons=true&locale=en&layout=compact" alt="areeba-muhammad-aijaz" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadAhsaanAbbasi&show_icons=true&locale=en&layout=compact" alt="MuhammadAhsaanAbbasi" /></p>
 
 
