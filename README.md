@@ -35,7 +35,7 @@
 	<a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="NextJS in PIAIC">
 		<img src="./imgs/nextjs.png" alt="nextjs" width="45" height="45" />
 	</a>
-	<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer" title="NPM" style="text-decoration: none;">
+<!-- 	<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer" title="NPM" style="text-decoration: none;">
 		<img src="./imgs/icons8-npm-48.png" alt="NPM" width="40" height="40" />
 	</a>
 	<a href="https://socket.io/" target="_blank" rel="noreferrer"
@@ -44,7 +44,7 @@
 	</a>
 	<a href="https://formik.org/" target="_blank" title="Build Form in REACT" style="text-decoration: none;">
 		<img src="./imgs/formik.png" width="40px" />
-	</a>
+	</a> -->
 </p>
 
 <hr>
