@@ -22,9 +22,6 @@
 
 <p align='center'>
 	<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-	<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer" title="NPM" style="text-decoration: none;">
-		<img src="https://www.pngwing.com/en/free-png-iksrb" alt="NPM" width="40" height="40" />
-	</a>
 	<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ts" />
 	
 <!-- 	<img src="https://skillicons.dev/icons?i=react,express,mongodb," /> -->
