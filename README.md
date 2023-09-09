@@ -21,9 +21,9 @@
 <h3 align="left">Languages and Tools ⚙️ : </h3>
 
 <p align='center'>
-	<img src="https://skillicons.dev/icons?i=git,github,vscode," />
+	<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 	<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer" title="NPM" style="text-decoration: none;">
-		<img src="./imgs/icons8-npm-48.png" alt="NPM" width="40" height="40" />
+		<img src="https://www.pngwing.com/en/free-png-iksrb" alt="NPM" width="40" height="40" />
 	</a>
 	<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ts" />
 	
