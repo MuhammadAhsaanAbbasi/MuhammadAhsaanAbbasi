@@ -22,7 +22,7 @@
 
 <p align='center'>
 	<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-	<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ts,python,Jupyter Notebook" />
+	<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ts,python,JupyterNotebook" />
 	
 <!-- 	<img src="https://skillicons.dev/icons?i=react,express,mongodb," /> -->
 <!-- 	<img src="https://skillicons.dev/icons?i=postman,vercel,prisma,planetscale,graphql" />
