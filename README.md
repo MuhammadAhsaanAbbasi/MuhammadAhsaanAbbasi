@@ -31,12 +31,12 @@
 </p>
 
 <hr>
-<h3 align="left">Languages and Tools ⚙️ : </h3>
+<h3 align="left">Learning Languages and Tools ⚙️ : </h3>
 
 <p align='center'>
-	<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,nextjs"/>
-        <img src="https://skillicons.dev/icons?i=python,tailwind,figma" />
-	<img src="https://skillicons.dev/icons?i=git,github,vscode,replit,vercel" />
+	<img src="https://skillicons.dev/icons?i=express,mongodb,postgres,mysql,nestjs,supabase,firebase"/>
+        <img src="https://skillicons.dev/icons?i=flask,gcp,materialui" />
+	<img src="https://skillicons.dev/icons?i=postman" />
 </p>
 
 <hr>
