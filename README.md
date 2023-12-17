@@ -31,5 +31,14 @@
 </p>
 
 <hr>
+<h3 align="left">Languages and Tools ⚙️ : </h3>
+
+<p align='center'>
+	<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,nextjs"/>
+        <img src="https://skillicons.dev/icons?i=python,tailwind,figma" />
+	<img src="https://skillicons.dev/icons?i=git,github,vscode,replit,vercel" />
+</p>
+
+<hr>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadAhsaanAbbasi&show_icons=true&locale=en&layout=compact" alt="MuhammadAhsaanAbbasi" /></p>
