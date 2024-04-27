@@ -22,8 +22,9 @@
 
 <p align='center'>
 	<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,nextjs"/>
-        <img src="https://skillicons.dev/icons?i=python,tailwind,figma" />
-	<img src="https://skillicons.dev/icons?i=git,github,vscode,replit,vercel" />
+	<img src="https://skillicons.dev/icons?i=express,mongodb,postgres,python,fastapi"/>
+        <img src="https://skillicons.dev/icons?i=tailwind,materialui,figma" />
+	<img src="https://skillicons.dev/icons?i=git,github,vscode,replit,vercel,postman" />
 	
 <!-- 	<img src="https://skillicons.dev/icons?i=react,express,mongodb," /> -->
 <!-- 	<img src="https://skillicons.dev/icons?i=postman,vercel,prisma,planetscale,graphql" />
@@ -34,9 +35,9 @@
 <h3 align="left">Learning Languages and Tools ⚙️ : </h3>
 
 <p align='center'>
-	<img src="https://skillicons.dev/icons?i=express,mongodb,postgres,mysql,nestjs,supabase,firebase"/>
-        <img src="https://skillicons.dev/icons?i=flask,gcp,materialui" />
-	<img src="https://skillicons.dev/icons?i=postman" />
+	<img src="https://skillicons.dev/icons?i=threejs,nestjs,supabase,firebase"/>
+        <img src="https://skillicons.dev/icons?i=flask,gcp," />
+	<img src="https://skillicons.dev/icons?i=" />
 </p>
 
 <hr>
