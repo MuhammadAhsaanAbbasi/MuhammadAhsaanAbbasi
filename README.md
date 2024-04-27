@@ -38,7 +38,7 @@
 <p align='center'>
 	<img src="https://skillicons.dev/icons?i=threejs,nestjs,supabase,firebase,flask"/>
         <img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,tensorflow,pytorch" />
-	<img src="https://skillicons.dev/icons?i=gitlab,aws,gcp,azure" />
+	<img src="https://skillicons.dev/icons?i=terraform,gitlab,aws,gcp,azure" />
 </p>
 
 <hr>
