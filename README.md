@@ -21,7 +21,7 @@
 <h3 align="left">Languages and Tools ⚙️ : </h3>
 
 <p align='center'>
-	<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,nextjs"/>
+	<img src="https://skillicons.dev/icons?i=html,css,js,ts"/>
 	<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs"/>
 	<img src="https://skillicons.dev/icons?i=nextjs,postgres,python,fastapi"/>
         <img src="https://skillicons.dev/icons?i=tailwind,figma,materialui" />
