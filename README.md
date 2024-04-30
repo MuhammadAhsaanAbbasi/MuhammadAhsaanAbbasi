@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ahsaan Abbasi</h1>
-<h3 align="center">A Passionate JAMStack Developer From Pakistan</h3>
+<h3 align="center">A Passionate Full-Stack Developer From Pakistan</h3>
 <hr>
 - 🌱 I’m currently learning **WEB 3.0 PIAIC (Presidential Initiative for Artificial Intelligence and Computing)**
 
-- 💬 Ask me about **HTML CSS JAVASCRIPT Typescript**
+- 💬 Ask me about **Typescript, React, Next.js, Python, FastAPI**
 
 - 📫 How to reach me **mahsaanabbasi@gmail.com**
 
