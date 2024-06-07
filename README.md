@@ -45,8 +45,6 @@
 
 <hr>
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=MuhammadAhsaanAbbasi&&theme=xcode)](https://github.com/MuhammadAhsaanAbbasi)
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadAhsaanAbbasi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="MuhammadAhsaanAbbasi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhammadAhsaanAbbasi&show_icons=true&locale=en&theme=tokyonight" alt="MuhammadAhsaanAbbasi" /></p>
