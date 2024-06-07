@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ahsaan Abbasi</h1>
 <h3 align="center">A Passionate Full-Stack Developer From Pakistan</h3>
 <hr>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MuhammadAhsaanAbbasi&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MuhammadAhsaanAbbasi&label=Profile%20views&color=0e75b6&style=flat" alt="MuhammadAhsaanAbbasi" /> </p>
 
 - 🌱 I’m currently learning **WEB 3.0 PIAIC (Presidential Initiative for Artificial Intelligence and Computing)**
 
@@ -47,3 +47,6 @@
 
 <p>	<img
 			src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadAhsaanAbbasi&show_icons=true&locale=en&layout=compact&count_private=true&theme=outrun" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhammadAhsaanAbbasi&show_icons=true&locale=en&theme=tokyonight" alt="MuhammadAhsaanAbbasi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAhsaanAbbasi&&theme=tokyonight" alt="MuhammadAhsaanAbbasi" /></p>
