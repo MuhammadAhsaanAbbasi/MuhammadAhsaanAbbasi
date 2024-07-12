@@ -45,7 +45,7 @@
 
 <hr>
 
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadAhsaanAbbasi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="MuhammadAhsaanAbbasi" /></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadAhsaanAbbasi&show_icons=true&locale=en&layout=compact&theme=radical" alt="MuhammadAhsaanAbbasi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhammadAhsaanAbbasi&show_icons=true&locale=en&theme=radical" alt="MuhammadAhsaanAbbasi" /></p>
 
